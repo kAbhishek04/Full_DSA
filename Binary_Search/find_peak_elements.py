@@ -36,6 +36,6 @@ if __name__ == "__main__":
 # # so the peak element for the input array is 20 at index 4
 # # Time Complexity: O(log n)
 # # # Space Complexity: O(1)
- 
+
 
 
