@@ -12,5 +12,5 @@ def sqrt_binn(num):
     return high
 if __name__ == "__main__":
     num = 40
-    print(sqrt_binn(num))  # Output: 2
+    print(sqrt_binn(num))  # utput: 2
     
