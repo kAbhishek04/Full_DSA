@@ -23,4 +23,4 @@ def can_eat(pile, k, h):
 if __name__ == "__main__":
     pile = [3, 6, 7, 11]
     h = 8
-    print(koko_eating(pile, h))  # Output: 4
+    print(koko_eating(pile, h))  # utput: 4
